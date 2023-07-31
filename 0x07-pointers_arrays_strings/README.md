@@ -1,1 +1,1 @@
-even more strins
+even morepointers
