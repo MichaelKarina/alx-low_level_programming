@@ -1,12 +1,10 @@
 #include "main.h"
 
 /**
- *
- * _pow_recursion - returns the value of x raised to the power of y
- * @x: value raised to
- * @y: power
- * made by michael karina
- * Return: return of the power
+ * _pow_recursion - shows the value of x that is raised to the power of y
+ * @x: value raised
+ * @y: power value 
+ * Return: result of the power
  */
 int _pow_recursion(int x, int y)
 {
