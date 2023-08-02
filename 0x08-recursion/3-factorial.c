@@ -1,10 +1,8 @@
 #include "main.h"
 
 /**
- *
- * factorial - returns the factorial numnber
- * @n: number to return the factorial 
- * made by michael karina
+ * factorial - shows the factorial of the number.
+ * @n: number returned by the factorial
  * Return: factorial of n
  */
 int factorial(int n)
