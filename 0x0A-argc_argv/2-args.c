@@ -2,20 +2,20 @@
 #include "main.h"
 
 /**
- * main - will print all arguments it receives
- * @argc: number of arguments
+ * main - printes all arguments it receives
+ * @argc: numbeer of arguments
  * @argv: array of arguments
- * made by Michael 
+ *
  * Return: Always 0 (Success)
  */
 int main(int argc, char *argv[])
 {
-	int i;
+        int i;
 
-	for (i = 0; i < argc; i++)
-	{
-		printf("%s\n", argv[i]);
-	}
+        for (i = 0; i < argc; i++)
+        {
+                printf("%s\n", argv[i]);
+        }
 
-	return (0);
+        return (0);
 }
