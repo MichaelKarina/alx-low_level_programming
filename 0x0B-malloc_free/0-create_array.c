@@ -2,10 +2,10 @@
 #include <stdlib.h>
 
 /**
- * create_array - creates an array of characters, and initialize with specific char
+ * create_array - create an array of chars and initialize with specific chars
  * @size: size of array
- * @c: specific characta
- * Return: character pointer to malloc created memory address or NULL if error
+ * @c: specific char
+ * Return: char pointa to malloc create memory address or NULL if error
  */
 
 char *create_array(unsigned int size, char c)
