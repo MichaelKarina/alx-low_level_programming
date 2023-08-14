@@ -1,11 +1,11 @@
 #ifndef DOG_H
 #define DOG_H
 /**
- * structdog - Define a new type struct dog
- * @name:name of dog
- * @age:age of dog
- * @owner:owner of dog
- * auth,mike
+ * struct dog - Define a new type struct dog
+ * @name: names of dog
+ * @age: AGE of dog
+ * @owner: owner of dog
+ * 
  * Description: Data structure for holbertn and Django
  */
 typedef struct dog
