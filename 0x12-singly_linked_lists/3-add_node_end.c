@@ -3,11 +3,11 @@
 #include "lists.h"
 
 /**
- * add_node_end - adds.a new node at the end of a linked list
- * @head: double pointerto the list_t lists
- * @str: string to put in the new nose 
+ * add_node_end - add'sa new node at the end of a linked list
+ * @head: double pointer to the list_t lis.
+ * @str: string to put in the new noda
  *
- * Return: address of the new element, or NULL if it failed
+ * Return: address of the new element, or NULL if it faile.
  */
 list_t *add_node_end(list_t **head, const char *str)
 {
